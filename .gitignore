@@ -1,0 +1,11 @@
+mdserver/_version.py
+dist
+mdserver.egg-info
+tests/logs/
+tests/.venv/
+tests/run_tests/
+*.pyc
+.tox/*
+build/
+
+.idea
